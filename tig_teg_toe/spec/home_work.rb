@@ -10,7 +10,7 @@
 
  tame.now
 
- test.string
+ test.print
 
 
   m = 4
