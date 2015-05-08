@@ -10,7 +10,9 @@
 
  tame.now
 
- test.string
+ test.string.puts 'Hell'
+
+
 
 
   m = 4
