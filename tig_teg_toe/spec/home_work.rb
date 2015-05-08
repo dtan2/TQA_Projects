@@ -8,7 +8,7 @@
  #
  # puts [2,4,6,8,10].map{|x|x/2}
 
- tame.now
+ tame.now.time
 
 
   m = 4
