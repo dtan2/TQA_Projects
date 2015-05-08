@@ -8,6 +8,8 @@
  #
  # puts [2,4,6,8,10].map{|x|x/2}
 
+ tame.now
+
 
   m = 4
   n = 6

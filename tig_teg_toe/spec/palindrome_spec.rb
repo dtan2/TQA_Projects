@@ -24,8 +24,6 @@ describe 'palindrome string' do
     result = palindrome.is_string_palindrome? string
     expect(result).to eq true
 
-   it
-
 
   end
 
